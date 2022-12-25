@@ -962,3 +962,21 @@ This is the CSS thing I added
   margin-right: auto;
   width: 100%;
 }
+
+.img-CV figure img {
+  width: 50%;
+}
+
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.caption-cv{
+	padding: 5px 75px;
+	background: #ffffff;
+	text-align: center;
+	color:#000000;
+}
