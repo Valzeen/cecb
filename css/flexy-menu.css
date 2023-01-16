@@ -11,6 +11,8 @@
 	float:left;
 	font-family: "Source Sans Pro", Segoe UI, Arial;
 	list-style: none;
+	padding-top: 30px;
+	padding-bottom: 30px;
 	/*background: #333333*/
 }
 
@@ -18,7 +20,7 @@
 .flexy-menu li
 {
 	display:inline-block;
-	font-size:13px;
+	font-size:16px;
 	margin:0;
 	padding:0;
 	float:left;
@@ -28,7 +30,7 @@
 .flexy-menu > li > a
 {
 	padding:20px 22px;
-	color:#ccc;
+	color:#fff;
 	text-decoration:none;
 	display:block;
 	text-transform:uppercase;
@@ -39,7 +41,7 @@
 }
 .flexy-menu li:hover > a,.flexy-menu li.active a
 {
-	background: #555;
+	background: #fff;
 	color: #fff
 }
 .flexy-menu li.right
@@ -79,7 +81,7 @@
 {
 	padding:10px 20px;
 	width:100%;
-	color:#dedede;
+	color:#ffffff;
 	font-size:13px;
 	text-decoration:none;
 	display:inline-block;
@@ -163,7 +165,7 @@
 	display: block;
 	width: 20px;
 	height: 2px;
-	background: #ccc
+	background: #ffffff
 }
 .orange li:hover > a, .orange li.active a
 {

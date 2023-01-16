@@ -2,8 +2,8 @@
 /*------------  General CSS -----------*/
 body {
 	background: #fff;
-	font: 13px 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
-	line-height: 1.428571429;
+	font: 16px "Helvetica Neue";
+	line-height: 1.6;
 	color: #8f8f8f;
 }
 a {
@@ -30,17 +30,17 @@ p {
 }
 h1.navbar-brand_ {
 	margin: 0;
-	padding: 0;
+	padding: 5px;
 }
 h1.navbar-brand_ a {
   display: inline-block;
   padding: 0;
   width: 110px;
-  padding-top: 13px;
+  padding-top: 0px;
   margin-left: 25px;
 }
 h2 {
-	font: bold 30px/28px 'Passion One';
+	font: bold 30px/28px 'Helvetica Neue';
 	color: #555a78;
 	text-transform: uppercase;
 	margin: 1px 0 10px 0;
@@ -53,7 +53,7 @@ h2.indent {
 	margin: 0 0 27px 0;
 }
 h3 {
-	font: bold 22px/30px 'Passion One';
+	font: bold 22px/30px 'Helvetica Neue';
 	color: #555a78;
 	text-transform: uppercase;
 	margin: 0 0 10px 0;
@@ -62,7 +62,7 @@ h3 a{
 	color: #555a78;
 }
 h4 {
-	font: bold 13px/18px 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: bold 13px/18px "Helvetica Neue";
 	color: #555a78;
 	text-transform: uppercase;
 	margin: 0 0 8px 0;
@@ -194,7 +194,7 @@ footer {
 	background: #272d45;
 }
 footer p {
-	font: bold 13px/18px 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: bold 13px/18px "Helvetica Neue";
 	color: #fcf6f6;
 	text-transform: uppercase;
 	margin: 0;
@@ -319,7 +319,7 @@ footer span {
 	background: none;
 	float: left;
 	margin: 0 0px 0px 0;
-	font: bold 60px/36px 'Passion One';
+	font: bold 60px/36px 'Helvetica Neue';
 	color: #ffffff;
 }
 .du-news-date-box > div .badge span {
@@ -350,7 +350,7 @@ footer span {
 	margin-top: 5px;
 }
 #newsletter a {
-	font: bold 13px/36px 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: bold 13px/36px "Helvetica Neue";
 	color: #ffffff;
 	background: #c8474f;
 	padding: 0 28px;
@@ -369,7 +369,7 @@ footer span {
 	box-shadow: none;
 	border-radius: 0;
 	border: 1px solid #ffffff;
-	font: bold 13px/18px 'Open Sans';
+	font: bold 13px/18px 'Helvetica Neue';
 	text-transform: uppercase;
 	color: #969696;
 	text-align: center;
@@ -410,7 +410,7 @@ footer span {
 	z-index: 10;
 	text-align: center;
 	border: 1px solid #ffffff;
-	font: 11px/18px 'Open Sans';
+	font: 11px/18px 'Helvetica Neue';
 	height: 48px;
 	text-transform: uppercase;
 	color: #c8474f;
@@ -545,7 +545,7 @@ footer span {
 }
 .du-feature-box .du-caption-box .du-caption .title {
 	text-transform: uppercase;
-	font: bold 22px 'Passion One';
+	font: bold 22px 'Helvetica Neue';
 	color: #555a78;
 	margin-bottom: 13px;
 }
@@ -619,7 +619,7 @@ footer span {
 	text-decoration: none !important;
 	display: inline-block;
 	padding: 0 20px;
-	font: bold 13px/34px 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: bold 13px/34px "Helvetica Neue";
 	margin: 20px;
 	text-transform: uppercase;
 	text-shadow: none;
@@ -684,9 +684,9 @@ footer span {
 	padding-bottom: 0;
 }
 .du-google-map iframe{
-	width: 91%;
+	width: 75%;
 	height: 400px;
-	margin-left: 10px
+	margin-left: 0px
 }
 
 .du-google-map {
@@ -966,6 +966,11 @@ This is the CSS thing I added
 .img-CV figure img {
   width: 50%;
   }
+
+  .img-CV2 figure img {
+	width: 30%;
+	}
+  
 
  .center {
   display: block;
