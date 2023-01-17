@@ -26,7 +26,7 @@ textarea, input[type="text"], input[type="email"], input[type="search"], input[t
 }
 p {
 	margin-bottom: 24px;
-	line-height: 24px;
+	line-height: 30px;
 }
 h1.navbar-brand_ {
 	margin: 0;
