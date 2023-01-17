@@ -9,7 +9,7 @@
 	padding: 0;
 	position:relative;
 	float:left;
-	font-family: "Source Sans Pro", Segoe UI, Arial;
+	font-family: "Helvetica Neue";
 	list-style: none;
 	padding-top: 60px;
 	padding-bottom: 30px;
@@ -20,7 +20,7 @@
 .flexy-menu li
 {
 	display:inline-block;
-	font-size:16px;
+	font-size:25px;
 	margin:0;
 	padding:0;
 	float:left;
@@ -75,14 +75,14 @@
 	clear:both;
 	width:100%;
 	border: none;
-	font-size:12px
+	font-size:20px
 }
 .flexy-menu ul li a
 {
 	padding:10px 20px;
 	width:100%;
 	color:#ffffff;
-	font-size:13px;
+	font-size:18px;
 	text-decoration:none;
 	display:inline-block;
 	float:left;
