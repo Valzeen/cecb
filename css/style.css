@@ -55,7 +55,7 @@ h2.indent {
 h3 {
 	font: bold 22px/30px 'Helvetica Neue';
 	color: #555a78;
-	text-transform: uppercase;
+/* 	text-transform: uppercase; */
 	margin: 0 0 10px 0;
 }
 h3 a{
@@ -64,7 +64,7 @@ h3 a{
 h4 {
 	font: bold 13px/18px "Helvetica Neue";
 	color: #555a78;
-	text-transform: uppercase;
+/* 	text-transform: uppercase; */
 	margin: 0 0 8px 0;
 }
 .clear{
@@ -196,8 +196,8 @@ footer {
 footer p {
 	font: bold 13px/18px "Helvetica Neue";
 	color: #fcf6f6;
-	text-transform: uppercase;
-	margin: 0;
+/* 	text-transform: uppercase;
+ */	margin: 0;
 	float: left;
 }
 footer p a {
@@ -325,7 +325,7 @@ footer span {
 .du-news-date-box > div .badge span {
 	font-size: 36px;
 	display: block;
-	text-transform: uppercase;
+/* 	text-transform: uppercase; */
 }
 .du-news-date-box > div .badge strong {
 	font-size: 20px;
@@ -354,7 +354,7 @@ footer span {
 	color: #ffffff;
 	background: #c8474f;
 	padding: 0 28px;
-	text-transform: uppercase;
+/* 	text-transform: uppercase; */
 	display: inline-block;
 	float: none;
 	-webkit-transition: all 0.25s;
@@ -370,7 +370,7 @@ footer span {
 	border-radius: 0;
 	border: 1px solid #ffffff;
 	font: bold 13px/18px 'Helvetica Neue';
-	text-transform: uppercase;
+/* 	text-transform: uppercase; */
 	color: #969696;
 	text-align: center;
 	background: #ffffff;
@@ -412,7 +412,7 @@ footer span {
 	border: 1px solid #ffffff;
 	font: 11px/18px 'Helvetica Neue';
 	height: 48px;
-	text-transform: uppercase;
+/* 	text-transform: uppercase; */
 	color: #c8474f;
 	background: #ffffff;
 	width: 570px;
@@ -544,7 +544,7 @@ footer span {
 	margin-bottom: 20px;
 }
 .du-feature-box .du-caption-box .du-caption .title {
-	text-transform: uppercase;
+/* 	text-transform: uppercase; */
 	font: bold 22px 'Helvetica Neue';
 	color: #555a78;
 	margin-bottom: 13px;
@@ -621,7 +621,7 @@ footer span {
 	padding: 0 20px;
 	font: bold 13px/34px "Helvetica Neue";
 	margin: 20px;
-	text-transform: uppercase;
+/* 	text-transform: uppercase; */
 	text-shadow: none;
 	border-radius: 0;
 	color: #ffffff;
