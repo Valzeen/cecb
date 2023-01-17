@@ -33,7 +33,7 @@
 	color:#fff;
 	text-decoration:none;
 	display:block;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	-webkit-transition:color 0.2s linear, background 0.2s linear;
 	-moz-transition:color 0.2s linear, background 0.2s linear;
 	-o-transition:color 0.2s linear, background 0.2s linear;
